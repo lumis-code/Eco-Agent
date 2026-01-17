@@ -36,6 +36,12 @@ Eco-Agent instantly calculates:
 
 ---
 
+## Demo
+Video demo available on Devpost.
+
+
+---
+
 ## 🛠️ Tech Stack
 - HTML
 - CSS
